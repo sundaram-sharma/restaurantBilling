@@ -1,6 +1,6 @@
-# Resturant Billing System
+# Restaurants Billing System
 
-This application provides billing system for the resturant. 
+This application provides billing system for the restaurant. 
 
 
 ## Features
